@@ -6,7 +6,6 @@ Simple React app to manage expenses
 
 **Client:** React, CSS, NPM
 
-**Security:**  CodeQl
 
 ## Features
 
